@@ -39,19 +39,8 @@ I have developed a comprehensive set of PowerShell skills, covering various aspe
 
 ## Projects
 
-### Time-Sync Script: Wrote a PowerShell script to sync a computers Date/Time to a google time server.
+### Time-Sync Script:
+- Wrote a PowerShell script to sync a computers Date/Time to a google time server.
 
-### Project 2: [Another PowerShell-related project]
-- Provide details on your contribution, challenges faced, and solutions implemented.
-- Showcase your problem-solving abilities using PowerShell.
-
-## Certifications
-
-- **[Certification Name]:** Brief description and date of attainment.
-
-## Additional Resources
-
-- List any online courses, tutorials, or books you've used to enhance your PowerShell skills.
-
----
-
+### AD Group Removal
+- Wrote a script to remove all users from a specific AD Group.
