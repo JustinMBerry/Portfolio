@@ -1,4 +1,4 @@
-# Justin M. Berry's GitHub Portfolio
+# Justin M. Berry's Portfolio
 
 ## Social Media:
 LinkedIn - https://www.linkedin.com/in/justinmberry
