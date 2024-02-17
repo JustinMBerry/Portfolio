@@ -2,12 +2,12 @@
 
 ## Overview
 
-I possess a diverse set of Linux skills, ranging from system administration and scripting to networking and security.
+I learned a diverse set of Linux skills, ranging from system administration and scripting to networking and security.
 
 ## Key Competencies
 
 ### System Administration
-- **Operating Systems:** Proficient in managing and configuring various Linux distributions (e.g., Ubuntu, RedHat).
+- **Operating Systems:** Managing and configuring various Linux distributions (e.g., Ubuntu, RedHat).
 - **User Management:** Creating and managing user accounts, permissions, and access controls.
 - **Package Management:** Experience with package managers such as `apt` and `yum`.
 
@@ -22,7 +22,7 @@ I possess a diverse set of Linux skills, ranging from system administration and 
 - **User Authentication:** Implementing and securing user authentication using SSH keys.
 
 ### Virtualization
-- **Virtual Machines:** Experience with virtualization technologies such as VirtualBox.
+- **Virtual Machines:** Experience with virtualization technologies such as VirtualBox, and VMWare.
 
 ## Command Proficiency
 
@@ -30,7 +30,7 @@ I possess a diverse set of Linux skills, ranging from system administration and 
 - `sudo`: Execute a command with superuser privileges.
 - `useradd` and `userdel`: Create and delete user accounts.
 - `chmod` and `chown`: Change file permissions and ownership.
-- `apt` and `yum`: Package management commands for Debian and Red Hat-based systems.
+- `apt` and `yum`: Package management commands for Red Hat-based systems.
 
 ### Networking Commands
 - `ifconfig` and `ip`: Display and configure network interfaces.
