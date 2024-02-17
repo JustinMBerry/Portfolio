@@ -40,7 +40,7 @@ I have developed PowerShell skills through self-directed learning, covering vari
 ## Projects
 
 ### Time-Sync Script:
-- Wrote a PowerShell script to sync a computers Date/Time to a google time server.
+- Wrote a PowerShell script to sync a computers Date/Time to Google's time server.
 
 ### AD Group Removal
 - Wrote a script to remove all users from a specific AD Group.
