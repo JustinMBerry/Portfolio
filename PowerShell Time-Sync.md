@@ -1,7 +1,7 @@
 # Windows Time-Sync PowerShell Script
 
 ## Summary
-This script was used in office after an office move left us unable to access a domain controller for a period of time.
+This script was used in office, after an office move left our computers unable to communicate with a domain controller for a period of time.
 
 ## PowerShell Script
 ```
