@@ -2,7 +2,7 @@
 
 ## Overview
 
-I have developed a comprehensive set of PowerShell skills, covering various aspects such as scripting, automation, and system administration.
+I have developed PowerShell skills through self-directed learning, covering various aspects such as scripting, automation, and system administration.
 
 ## Key Competencies
 
