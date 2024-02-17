@@ -1,4 +1,4 @@
-### Justin M. Berry's GitHub Portfolio
+## Justin M. Berry's GitHub Portfolio
 
 Overview:
 Welcome to my GitHub portfolio! I am Justin Berry, a Tier 2 Desktop Support Technician. This portfolio showcases a collection of my projects and contributions, reflecting various skills i've learned over my career.
@@ -8,7 +8,7 @@ Projects: Explore a variety of projects, each demonstrating my skills in PowerSh
 
 Skills: Proficient in PowerShell, OS Management, I am dedicated to continuous learning and growth in the Information Technology Sector.
 
-## Awards and Recognition
+# Awards and Recognition
 Commitment & Accountability Award (September 2023): Recieved recognition for consistently demonstrating outstanding commitment and accountability while working on several projects.
 
 How to Get Started:
