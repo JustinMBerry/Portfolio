@@ -19,7 +19,7 @@ This PowerShell script removes users from a selected Active Directory group by r
 
 $usernameFile = "*Directory to list of usernames*"
 
-    Provide the path to the file containing a list of usernames.
+    Provides the path to the file containing a list of usernames.
 
 $users = Get-Content $usernameFile
 
