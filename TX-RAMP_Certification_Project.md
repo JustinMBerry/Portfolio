@@ -29,4 +29,4 @@ $users = Get-Content $usernameFile
 
 ForEach ($user in $users) {Remove-ADGroupMember -Identity *AD Group Name* -Members $user -Confirm:$False}
 
-    Runs a For loop through the user list, removing all users on the list from teh listed Group.
+    Runs a "for loop" through the user list, removing all users on the list from the listed Group.
