@@ -11,7 +11,9 @@ Projects: Explore a variety of projects, each demonstrating my skills in PowerSh
 
 ### Skills
 Proficient: PowerShell, Windows OS
+
 Competent: RedHat OS
+
 Capable: SQL, Python
 
 ## Awards and Recognition
