@@ -1,3 +1,5 @@
+# TX-RAMP Project
+
 ## Summary
 Collaborated with a team of Infrastructure administrators to achieve compliance with the TX-RAMP certification. Played a key role in the overhaul of Active Directory groups across multiple domains, implementing a comprehensive overhaul to enforce the principle of least privileged access for users.
 
