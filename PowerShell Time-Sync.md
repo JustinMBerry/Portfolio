@@ -1,7 +1,7 @@
 # Windows Time-Sync PowerShell Script
 
 ## Summary
-This script was used in office, after an office move left our computers unable to communicate with a domain controller for a period of time.
+This PowerShell script resolves issues encountered by in-office computers, ensuring accurate adjustment of their Date/Time settings.
 
 ## PowerShell Script
 ```
