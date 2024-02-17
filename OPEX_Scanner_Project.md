@@ -11,4 +11,4 @@ Identified and documeneted file transfer mechanisms.
 
 ## Technologies Used
 Static IP Configuration: Configured static IP addresses to ensure stable functionality within the network.
-Crossover Cable Connectivity: Utilized a crossover cable to establish a direct connection between the OPEX scanner computer and an SFTP transfer station.
+Crossover Cable Connectivity: Utilized a crossover cable to establish a direct connection between the OPEX scanner and an SFTP transfer station.
