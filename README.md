@@ -1,13 +1,22 @@
 # Justin M. Berry's Portfolio
 
 ## Social Media:
-LinkedIn - https://www.linkedin.com/in/justinmberry
+[LinkedIn](https://www.linkedin.com/in/justinmberry)
 
 ## Overview:
 Welcome to my GitHub portfolio! I am Justin Berry, a Tier 2 Desktop Support Technician. This portfolio showcases a collection of my projects and contributions, reflecting various skills i've learned over my career.
 
 ## What You'll Find:
-Projects: Explore a variety of projects, each demonstrating my skills in PowerShell and general troubleshooting. From playing a key role in moving an OPEX scanner to writing a PowerShell script to synchronize a computer's time clock with Google's atomic clock, these repositories highlight my commitment to troubleshooting, team collaboration, and adaptability.
+ - Projects: View several projects, each demonstrating my skills in PowerShell and general troubleshooting. From playing a key role in moving an OPEX scanner to writing a PowerShell script to synchronize a computer's time clock with Google's atomic clock, these projects highlight my commitment to troubleshooting, team collaboration, and adaptability.
+   - [OPEX Scanner Project](https://github.com/JustinMBerry/Portfolio/blob/main/OPEX_Scanner_Project.md)
+   - [TX-RAMP Certification Project](https://github.com/JustinMBerry/Portfolio/blob/main/TX-RAMP_Certification_Project.md)
+   - [VDI Connectivity Project](https://github.com/JustinMBerry/Portfolio/blob/main/VDI_Connectivity_Project.md)
+   - [Powershell Time Sync Project](https://github.com/JustinMBerry/Portfolio/blob/main/PowerShell_Time-Sync_Project.md)
+
+ - Commandlets: Browse a list of skills that I've aquired in Linux, PowerShell, and SQL.
+   - [Linux Skills](https://github.com/JustinMBerry/Portfolio/blob/main/Linux_Skills.md)
+   - [PowerShell Skills](https://github.com/JustinMBerry/Portfolio/blob/main/PowerShell_Skills.md)
+   - [SQL Skills](https://github.com/JustinMBerry/Portfolio/blob/main/SQL_Skills.md)  
 
 ### Skills
 Proficient: PowerShell, Windows OS
