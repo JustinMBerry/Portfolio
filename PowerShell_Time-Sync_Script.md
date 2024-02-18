@@ -1,4 +1,4 @@
-# Windows Time-Sync PowerShell Script
+# Windows Time-Sync Project
 
 ## Summary
 This PowerShell script resolves issues encountered by in-office computers, ensuring accurate adjustment of their Date/Time settings.
