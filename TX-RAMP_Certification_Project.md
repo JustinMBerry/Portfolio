@@ -21,14 +21,11 @@ ForEach ($user in $users) {
 #### Script Summary
 This PowerShell script removes users from a selected Active Directory group by reading a list of usernames from a specified file. Customize the script by filling in the information between the asterisks (*). Ensure the Active Directory group name and the file path are accurately provided for proper execution.
 
-$usernameFile = "*Directory to list of usernames*"
+`$usernameFile = "*Directory to list of usernames*"`
+Provides the path to the file containing a list of usernames.
 
-    Provides the path to the file containing a list of usernames.
+`$users = Get-Content $usernameFile`
+Imports the list of usernames into Powershell.
 
-$users = Get-Content $usernameFile
-
-    Imports the list of usernames into Powershell.
-
-ForEach ($user in $users) {Remove-ADGroupMember -Identity *AD Group Name* -Members $user -Confirm:$False}
-
-    Runs a "for loop" through the user list, removing all users on the list from the listed Group.
+`ForEach ($user in $users) {Remove-ADGroupMember -Identity *AD Group Name* -Members $user -Confirm:$False}`
+Runs a "for loop" through the user list, removing all users on the list from the listed Group.
