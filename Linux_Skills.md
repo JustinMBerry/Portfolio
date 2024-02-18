@@ -8,21 +8,17 @@ I learned a diverse set of Linux skills, ranging from system administration and 
 
 ### System Administration
 - **Operating Systems:** Managing and configuring various Linux distributions (e.g., Ubuntu, RedHat).
-- **User Management:** Creating and managing user accounts, permissions, and access controls.
+- **User Management:** Creating and managing user accounts, permissions, and access controls such as `chmod` and `chown`.
 - **Package Management:** Experience with package managers such as `apt` and `yum`.
-
-### Scripting and Automation
-- **Cron Jobs:** Setting up and managing scheduled tasks using cron jobs.
 
 ### Networking
 - **TCP/IP:** Solid understanding of TCP/IP networking protocols.
-- **Firewall Configuration:** Configuring and managing firewalls using tools like `iptables`.
 
 ### Security
 - **User Authentication:** Implementing and securing user authentication using SSH keys.
 
 ### Virtualization
-- **Virtual Machines:** Experience with virtualization technologies such as VirtualBox, and VMWare.
+- **Virtual Machines:** Familiar with virtualization technologies such as VirtualBox, and VMWare.
 
 ## Command Proficiency
 
@@ -35,7 +31,3 @@ I learned a diverse set of Linux skills, ranging from system administration and 
 ### Networking Commands
 - `ifconfig` and `ip`: Display and configure network interfaces.
 - `netstat` and `ss`: Show network statistics and connections.
-- `iptables`: Configure and manage firewall rules.
-
-### Scripting and Automation Commands
-- `cron`: Schedule and manage recurring tasks.
