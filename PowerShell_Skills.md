@@ -44,3 +44,6 @@ I have developed PowerShell skills through self-directed learning, covering vari
 
 ### AD Group Removal
 - Wrote a script to remove all users from a specific AD Group.
+
+### AD Group Membership Script
+- Wrote a script to recursively collect group memberships of all users in a selected domain, exporting the data to a .csv file.
