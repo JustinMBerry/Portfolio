@@ -12,6 +12,7 @@ Welcome to my GitHub portfolio! I am Justin Berry, a Tier 2 Desktop Support Tech
    - [TX-RAMP Certification Project](https://github.com/JustinMBerry/Portfolio/blob/main/TX-RAMP_Certification_Project.md)
    - [VDI Connectivity Project](https://github.com/JustinMBerry/Portfolio/blob/main/VDI_Connectivity_Project.md)
    - [Powershell Time Sync Project](https://github.com/JustinMBerry/Portfolio/blob/main/PowerShell_Time-Sync_Project.md)
+   - [Last Logon Project](https://github.com/JustinMBerry/Portfolio/blob/main/Last_Logon_Project.md)
 
  - Commandlets: Browse a list of skills that I've aquired in Linux, PowerShell, and SQL.
    - [Linux Skills](https://github.com/JustinMBerry/Portfolio/blob/main/Linux_Skills.md)
