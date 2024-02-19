@@ -22,4 +22,4 @@ $Enabled_Old_Accounts | ?{$Exited_Users_List -notcontains $_.samaccountname} | E
 
 `$Enabled_Old_Accounts | ?{$Exited_Users_List -notcontains $_.samaccountname} | Export-CSV *Directory Location + File Name* -NoTypeInformation -Append`
 
-  Takes teh object Enabled_Old_Accounts, and pipes it into a where-object, where it removes all accounts that are currently a member of the ExitedUsers group. It then Exports that object to a .csv file to the directory listed in place of *Directory Location + File Name.* (If there is a current file with teh samee name in that location it will append to the end of the document.
+  Takes the object Enabled_Old_Accounts, and pipes it into a where-object, where it removes all accounts that are currently a member of the ExitedUsers group. It then Exports that object to a .csv file to the directory listed in place of *Directory Location + File Name.* (If there is a current file with the samee name in that location it will append to the end of the document.
