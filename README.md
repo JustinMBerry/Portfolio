@@ -4,7 +4,7 @@
 [LinkedIn](https://www.linkedin.com/in/justinmberry)
 
 ## Overview:
-Welcome to my GitHub portfolio! I am Justin Berry, a Tier 2 Desktop Support Technician. This portfolio showcases a collection of my projects and contributions, reflecting various skills i've learned over my career.
+Welcome to my GitHub portfolio! I am Justin Berry, a Tier 2 Desktop Support Technician. This portfolio showcases a collection of my projects and contributions, reflecting various skills I've learned over my career.
 
 ## What You'll Find:
  - Projects: View several projects, each demonstrating my skills in PowerShell and general troubleshooting. From playing a key role in moving an OPEX scanner to writing a PowerShell script to synchronize a computer's time clock with Google's atomic clock, these projects highlight my commitment to troubleshooting, team collaboration, and adaptability.
