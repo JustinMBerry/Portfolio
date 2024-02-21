@@ -7,7 +7,7 @@ Collaborated with cross-functional teams to reverse engineer the document-openin
 ## Key Responsibilities
  - Reverse Engineered OPEX Scanner document-processing workflow.
 
- - Identified and documeneted file transfer mechanisms.
+ - Identified and documented file transfer mechanisms.
 
 ## Technologies Used
 Static IP Configuration: Configured static IP addresses to ensure stable functionality within the network.
