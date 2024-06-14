@@ -27,8 +27,8 @@ Competent: RedHat OS
 Capable: SQL, Python
 
 ## Awards and Recognition
-Commitment & Accountability Award (September 2023): Received recognition for consistently demonstrating outstanding commitment and accountability while working on several projects.
+**Commitment & Accountability Award** (September 2023): Received recognition for consistently demonstrating outstanding commitment and accountability while working on several projects.
 
-Employee of the Month (June 2024)
+**Employee of the Month** (June 2024)
 
 Thank you for visiting my GitHub portfolio. I hope you find it insightful.
