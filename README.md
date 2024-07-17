@@ -32,3 +32,5 @@ Capable: SQL, Python
 **Employee of the Month** (June 2024)
 
 Thank you for visiting my GitHub portfolio. I hope you find it insightful.
+
+**Adult/Child/Infant CPR Certification** (July 2024)
