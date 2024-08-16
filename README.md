@@ -26,11 +26,13 @@ Competent: RedHat OS
 
 Capable: SQL, Python
 
-## Awards and Recognition
+## Awards, Certifications, and Recognition
 **Commitment & Accountability Award** (September 2023): Received recognition for consistently demonstrating outstanding commitment and accountability while working on several projects.
 
 **Employee of the Month** (June 2024)
 
-Thank you for visiting my GitHub portfolio. I hope you find it insightful.
+**[Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/BerryJustin-3690/1052B571F3FD9C7E?sharingId=477C5511612F4EC5
+)** (August 2024) 
 
 **Adult/Child/Infant CPR Certification** (July 2024)
+Thank you for visiting my GitHub portfolio. I hope you find it insightful.
