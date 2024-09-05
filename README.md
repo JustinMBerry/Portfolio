@@ -35,4 +35,5 @@ Capable: SQL, Python
 )** (August 2024) 
 
 **Adult/Child/Infant CPR Certification** (July 2024)
+
 Thank you for visiting my GitHub portfolio. I hope you find it insightful.
