@@ -26,7 +26,7 @@ I learned a diverse set of Linux skills, ranging from system administration and 
 - `sudo`: Execute a command with superuser privileges.
 - `useradd` and `userdel`: Create and delete user accounts.
 - `chmod` and `chown`: Change file permissions and ownership.
-- `apt` and `yum`: Package management commands for Red Hat-based systems.
+- `apt`, `yum`, and `dnf`: Package management commands for Red Hat-based systems.
 
 ### Networking Commands
 - `ifconfig` and `ip`: Display and configure network interfaces.
