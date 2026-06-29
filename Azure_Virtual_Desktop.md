@@ -1,17 +1,24 @@
 # Azure Virtual Desktop
 
 ## Summary
-Designed and created an Azure Host Pool containing two AVD's with 99.95% SLA.
+Designed and deployed an Azure Virtual Desktop (AVD) environment consisting of a two-session-host host pool with a 99.95% SLA to support a business critical operation.
 
 ## Project Objectives
 
-1. **Infrastructure Planning:**
-   - Researched the Azure infrastructure that is required prior to the creation of the Virtual Machines, and host pool.
-   - Used the Azure Pricing Calculator to determine an estimated cost per month.
+1. **Planning & Design:**
+   - Researched Azure architecture and dependencies required for Azure Virtual Desktops.
+   - Estimated operational costs using the Azure Pricign Calculator.
+   - Selected appropriate VM sizing based on the expected workloads.
+   - Designed the virtual network adn security architecture.
 
-2. **Infrastructure Implementation:**
-   - Set up the Host pool, Application Gateway, and Network Security Group to allow internal traffic.
-   - Designed a dashboard to simplify monitoring.
+2. **Implementation:**
+   - Deployed an Azure Virtual Desktop host pool with two session hosts.
+   - Configured virtual networking and Network Security Groups to secure internal communications.
+   - Published applications and configured user access.
+   - Built an Azure monitoring dashboard for infrastructure health adn performance.
 
 ## Results and Impact
-A more redundant system has been put in place for an operation that requires near 24/7 uptime.
+   - Increased availability through redundant session hosts.
+   - Delivered a scalable virtual desktop environment.
+   - Simplified operational monitoring using dashboards.
+   - Achieved the projects target availabliity of 99.95%.
