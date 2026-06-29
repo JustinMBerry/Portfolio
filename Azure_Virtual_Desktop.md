@@ -21,4 +21,4 @@ Designed and deployed an Azure Virtual Desktop (AVD) environment consisting of a
    - Increased availability through redundant session hosts.
    - Delivered a scalable virtual desktop environment.
    - Simplified operational monitoring using dashboards.
-   - Achieved the projects target availabliity of 99.95%.
+   - Achieved the projects target availability of 99.95%.
